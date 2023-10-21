@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.resume {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    color: #000000;
+}
+.photo {
+    text-align: left;
+}
+.photo img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+.skills {
+    margin-top: 20px;
+}
+.contact {
+    margin-top: 20px;
+}
